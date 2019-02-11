@@ -1,4 +1,4 @@
-# Client-Server Model FTP
+# Distributed File-Server System
 
 Originally made for Durham University's Department of Computer Science's course _Networks and Systems_ under the sub-module _Distributed Systems_, as part of the coursework in 2017/2018.
 
